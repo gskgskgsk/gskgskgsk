@@ -3,8 +3,6 @@
 
 
 
-🏠 Personal site: [gskgskgsk.github.io/sikangWeb](https://gskgskgsk.github.io/sikangWeb/)
-
 ## Tech Stack
 - **Java** 
 - **Python** ： AI Agent / LLM 应用开发（学习中）
