@@ -6,9 +6,9 @@
 🏠 Personal site: [gskgskgsk.github.io/sikangWeb](https://gskgskgsk.github.io/sikangWeb/)
 
 ## Tech Stack
-- **Go** · **Hugo** — 搭建并维护个人网站
+- **Java** -
 - **Python** — AI Agent / LLM 应用开发（学习中）
-- Currently exploring **Agent frameworks** & **LLM applications**.
+- **Java** - 未来学习Go、Rust和TypeScript。
 
 <!--
   更多技术栈可照此添加，例如：
