@@ -1,14 +1,14 @@
 # About me 👋
 我是一名全栈 AI 开发工程师，专注于全栈应用开发 + AI应用集成。热爱构建完整的业务系统和创意产品，对微服务架构、数据可视化、AI智能化应用有较为深入的理解。
 
-🌱
+
 
 🏠 Personal site: [gskgskgsk.github.io/sikangWeb](https://gskgskgsk.github.io/sikangWeb/)
 
 ## Tech Stack
-- **Java** -
-- **Python** — AI Agent / LLM 应用开发（学习中）
-- **Java** - 未来学习Go、Rust和TypeScript。
+- **Java** 
+- **Python** ： AI Agent / LLM 应用开发（学习中）
+- **其它** ： 未来学习Go、Rust和TypeScript。
 
 <!--
   更多技术栈可照此添加，例如：
