@@ -1,6 +1,5 @@
 # About me 👋
-I'm **Sikang Guo**, an AI Agent learner who loves building and tinkering. 
-全栈 AI 开发工程师，专注于全栈应用开发 + AI应用集成。热爱构建完整的业务系统和创意产品，对微服务架构、数据可视化、AI智能化应用有较为深入的理解。
+我是一名全栈 AI 开发工程师，专注于全栈应用开发 + AI应用集成。热爱构建完整的业务系统和创意产品，对微服务架构、数据可视化、AI智能化应用有较为深入的理解。
 
 🌱
 
